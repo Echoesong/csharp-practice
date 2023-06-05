@@ -2,7 +2,7 @@ namespace ContosoPizza.Models;
 
 
 
-public class Pizza2
+public class Pizza
 {
     public int Id { get; set; }
     public string? Name { get; set; }
